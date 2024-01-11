@@ -1,6 +1,7 @@
 # chatbot whit spreadsheet
 
 Script bot wa input data ke google spreadsheet
+LINK YT : https://www.youtube.com/watch?v=S48gNbMiCDQ
 
 **Cara menggunakan**
 
